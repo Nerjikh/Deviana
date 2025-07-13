@@ -1,0 +1,28 @@
+# Deviana
+
+Deviana is an AI-powered business-building assistant that helps users generate ideas, launch startups, and manage operations with the help of mini-AI bots.
+
+## Features
+
+- Business idea generation  
+- AI assistant companions  
+- Build and manage startups  
+- Auto-generated bots for tasks
+
+## How to Use
+
+1. Clone the repo  
+2. Install dependencies from `requirements.txt`  
+3. Run the app
+
+```bash
+pip install -r requirements.txt
+python main.py
+fastapi
+uvicorn
+requests
+fastapi
+uvicorn
+openai
+pydantic
+python-dotenv
